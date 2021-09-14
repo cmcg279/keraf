@@ -2,10 +2,10 @@
   "main": {
     "name": "Rafael Ali",
     "occupation": "Chemical Engineer",
-    "description": "I love Eating Kebab",
+    "description": "Open to opportunities",
     "image": "profilepic.jpg",
-    "bio": "I just love kebab",
-    "contactmessage": "Please ring me.",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel ligula id mauris aliquam gravida. Vivamus a magna eget velit facilisis scelerisque nec eget velit. Donec at eleifend nunc. Fusce hendrerit condimentum purus, at aliquam ex finibus sit amet. In laoreet eget dui at tincidunt. Integer dolor dolor, varius et porttitor sed, scelerisque eget metus. Fusce condimentum dolor orci, eget aliquet ligula viverra ut. Pellentesque aliquet eros mi, eget pharetra nisl commodo vel.",
+    "contactmessage": "Plase get in touch!",
     "email": "youremailhere@gmail.com",
     "phone": "0800-KEBAB",
     "address": {
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/rafa%C3%A9l-ali-770288193/",
         "className": "fa fa-linkedin"
       }
     ]
@@ -31,25 +31,25 @@
         "school": "Queens University Belfast",
         "degree": "MEng (Hons) Chemical Engineering",
         "graduated": "July 2020",
-        "description": "I Learned how to be a retard and eat kebab"
+        "description": "Kebab"
       },
       {
         "school": "Abbey CBS Newry",
         "degree": "GCSE and A Level",
         "graduated": "July 2015",
-        "description": "I hated my life."
+        "description": "Kebab"
       }
     ],
     "work": [
       {
         "company": "Sensata",
-        "title": "Senior Punching Bag ",
+        "title": "Solutions Engineer",
         "years": "March 2021 - Present",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
         "company": "Ryobi",
-        "title": "General Retard",
+        "title": "Project Engineer",
         "years": "August 2018 - August 2019",
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
@@ -61,7 +61,7 @@
       },
       {
         "name": "Work Ethic",
-        "level": "10%"
+        "level": "5%"
       }
     ]
   },
